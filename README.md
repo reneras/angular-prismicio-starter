@@ -1,3 +1,5 @@
+![Version](https://img.shields.io/badge/Angular%20version-5.2.0-green.svg)
+
 # Angular + Prismic.io Starter
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
